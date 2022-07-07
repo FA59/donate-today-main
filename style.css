@@ -5,6 +5,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    
 }
 .today{
     color: orange;
@@ -124,6 +125,7 @@ hr{
     display: flex;
     padding-left: 5px;
     margin-right: 5px;
+    margin-left: 10%;
 
 }
 .donate{
@@ -134,6 +136,7 @@ hr{
     
 }
 .donate-matters{
+    
     display: flex;
     background-color:antiquewhite;
     margin-top: 5%;
@@ -185,7 +188,8 @@ hr{
     text-align: center;
 }
 footer{
-    width: 100%;
+    
+    width: 94%;
     background-color: black;
     padding: 60px 40px;
     color: white;
